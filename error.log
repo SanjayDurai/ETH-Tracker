@@ -1,0 +1,13 @@
+[2024-09-10T08:02:03.017Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T08:03:03.027Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T08:08:06.934Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T08:10:06.947Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T08:11:06.958Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T08:11:56.948Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T11:50:32.838Z] ERROR: fee is not defined
+[2024-09-10T11:51:32.065Z] ERROR: fee is not defined
+[2024-09-10T11:52:32.004Z] ERROR: fee is not defined
+[2024-09-10T11:53:42.213Z] ERROR: fee is not defined
+[2024-09-10T15:05:35.209Z] ERROR: CONNECTION ERROR: Couldn't connect to node https://eth-mainnet.g.alchemy.com/v2/2gCQkvbsquycSYf3cbwtEJleaD35Q4jX.
+[2024-09-10T15:24:27.922Z] ERROR: Returned error: Your app has exceeded its compute units per second capacity. If you have retries enabled, you can safely ignore this message. If not, check out https://docs.alchemy.com/reference/throughput
+[2024-09-10T15:26:27.453Z] ERROR: Returned error: Your app has exceeded its compute units per second capacity. If you have retries enabled, you can safely ignore this message. If not, check out https://docs.alchemy.com/reference/throughput
