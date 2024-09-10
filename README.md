@@ -1,4 +1,4 @@
-# GDRIVE Link (Incase If i have forgot to give acces ti Videos )--- https://drive.google.com/drive/folders/1yUVx0haEdt4voXQ7MWwpyeM-DcZgSfnx?usp=sharing
+# GDRIVE Link (Incase If i have forgot to give acces to Videos )--- https://drive.google.com/drive/folders/1yUVx0haEdt4voXQ7MWwpyeM-DcZgSfnx?usp=sharing
 
 # Ethereum Deposit Tracker
 The Ethereum Deposit Tracker is a Node.js-based project that tracks Ethereum 2.0 deposits made to the Ethereum Beacon Chain. It listens for new deposit events, sends Telegram notifications when a deposit is detected, and logs deposit details such as block number, transaction hash, fee, and public key to a JSON file.
