@@ -17,7 +17,7 @@ Telegram Bot API Token to send notifications
 
 Getting Started
 1. Clone the Repository
-   git clone https://github.com/yourusername/ETH-Tracker.git
+   git clone https://github.com/SanjayDurai/ETH-Tracker.git
    cd ETH-Tracker
 2. Install Dependencies
 npm install
