@@ -1,4 +1,6 @@
-#Ethereum Deposit Tracker
+# Ethereum Deposit Tracker
+
+
 Overview
 The Ethereum Deposit Tracker monitors and records ETH deposits on the Ethereum Beacon Chain deposit contract. The tracker fetches real-time deposit data, logs them into a file, sends notifications via Telegram, and exposes metrics for monitoring via Grafana and Prometheus.
 
